@@ -1,0 +1,8 @@
+Carlos Alberto Palencia Pombo
+
+git init
+git add Carlos_Palencia.txt
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/carlosapalpo/SemilleroHBT.git
+git push -u origin main
